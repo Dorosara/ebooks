@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Books",
+  "description": "A professional ebook selling platform with Supabase backend integration.",
+  "requestFramePermissions": []
+}
